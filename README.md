@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bão
 
-<!--
-**Dudous/Dudous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/Dudous/README.md">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dudous&theme=github_dark_dimmed"/>
+</a>
+<a href="https://github.com/Dudous/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dudous&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/Dudous/Logic-Study">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dudous&repo=Logic-Study&theme=github_dark_dimmed" />
+</a>
+<a href="https://github.com/Dudous/VmotionGuard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dudous&repo=VMotionGuard&theme=github_dark_dimmed" />
+</a>
