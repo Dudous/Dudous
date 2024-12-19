@@ -10,6 +10,6 @@
 <a href="https://github.com/Dudous/Logic-Study">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dudous&repo=Logic-Study&theme=github_dark" />
 </a>
-<a href="https://github.com/Dudous/VmotionGuard">
+<a href="https://github.com/Dudous/VmotionGuard2.0">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dudous&repo=VMotionGuard2.0&theme=github_dark" />
 </a>
